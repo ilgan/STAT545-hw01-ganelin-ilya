@@ -5,6 +5,7 @@ date: "September 14, 2017"
 output:
   html_document: default
   pdf_document: default
+  github_document: default
 ---
 
 # Header 1
