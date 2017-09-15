@@ -5,4 +5,4 @@
 #updated from RStudio
 #This is the repository of Ilya Ganelin
 
-local conflict
+remote conflict
