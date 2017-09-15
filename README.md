@@ -17,13 +17,13 @@ output:
 - [STAT 545A page](http://stat545.com/)
 - [My LinkedIn profile](https://www.linkedin.com/in/ganelin/)
 
-### People about me
+### People about me:
 
 > "I think he is a smart kid...for his age"
 >
 > Ilya's kindergarten teacher.
 
-> "Ilya, get out of my class!!!"
+> "Get out of my class!!!"
 >
 > Ilya's high school english teacher.
 
@@ -32,12 +32,12 @@ output:
 
 
 
-## Homework!
+### Homework!
 
 ![](http://www.erauscher.com/uploads/5/9/1/3/59136803/764014668.jpg)
 
 
-## Process report
+### Process report
 
 **Did you edit in the browser at github.com?**
 
@@ -48,3 +48,19 @@ output:
 
 - [x] Yes. Studio Git
 - [x] Yes. GitHub direct upload + commit
+
+### Homework 1 Notes
+
+**The homework helped me to understand the following: **
+
+- How to use Rmd
+- How to render to different documents: pdf, html, md...
+- How to load necessary libraries and then write an R-code in Rmd
+- How to commit and push pull both locally using RStudio and Git command line and remotely through simple GitHub editor
+
+**What would I would like to learn more about: **
+
+- More examples on gapminder. How to properly use it?
+- Examples on tidyverse
+
+*Note: Last two points are easily searchable, so not a big deal.*
