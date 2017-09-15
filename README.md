@@ -33,7 +33,6 @@ output:
 ![](http://www.erauscher.com/uploads/5/9/1/3/59136803/764014668.jpg)
 
 
-
 ## Process report
 
 - Did you edit in the browser at github.com?
