@@ -66,6 +66,6 @@ output:
 1. More examples on gapminder. How to properly use it?
 2. Examples on tidyverse
 
-*** Note: Last two points are easily searchable, so not a big deal.
+*** Note: Last two points are easily searchable, so not a big deal.***
 
 ![](http://www.erauscher.com/uploads/5/9/1/3/59136803/764014668.jpg)
