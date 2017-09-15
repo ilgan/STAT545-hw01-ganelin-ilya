@@ -4,9 +4,8 @@ title: "Readme R Markdown"
 author: "IG"
 date: "September 15, 2017"
 output:
-  html_document: default
-  github_document: default
-
+  md_document: default
+  
 ---
 
 
