@@ -28,22 +28,23 @@ output:
 > Ilya's high school english teacher.
 
 ### Bio
-Engineer, BSc from TAU in ECE, MEng in Management in Technology from UBC. Currently MASc at UBC [DML](http://dml.ece.ubc.ca/), bass player at [Generals of Monrovia](https://generalsofmonrovia.bandcamp.com/)
+*Engineer, BSc from TAU in ECE, MEng in Management in Technology from UBC. Currently MASc at UBC [DML](http://dml.ece.ubc.ca/), bass player at [Generals of Monrovia](https://generalsofmonrovia.bandcamp.com/)*
 
 
 
 ## Homework!
+
 ![](http://www.erauscher.com/uploads/5/9/1/3/59136803/764014668.jpg)
 
 
 ## Process report
 
-- Did you edit in the browser at github.com?
+**Did you edit in the browser at github.com?**
 
-- [x] Browser - Remotly
+- [x] Browser - Remotley
 - [x] RStudio - Locally
 
-- Did you pull, edit locally, save, commit, push to github.com?
+**Did you pull, edit locally, save, commit, push to github.com?**
 
 - [x] Yes. Studio Git
 - [x] Yes. GitHub direct upload + commit
