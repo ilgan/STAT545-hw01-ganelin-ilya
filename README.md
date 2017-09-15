@@ -32,6 +32,8 @@ output:
 ## Homework!
 ![](http://www.erauscher.com/uploads/5/9/1/3/59136803/764014668.jpg)
 
+![](https://i.imgur.com/zNssDtS.gif)
+
 
 
 ## Process report
