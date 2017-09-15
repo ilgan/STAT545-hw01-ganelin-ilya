@@ -3,8 +3,6 @@ title: "hw01_gapminder"
 author: "IG"
 date: "September 14, 2017"
 output:
-  html_document: default
-  pdf_document: default
   github_document: default
 ---
 

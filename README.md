@@ -29,14 +29,18 @@ output:
 
 
 
-## Keep scrolling, dogs are watching you!
+## Keep scrolling to the process report, dogs are watching you!
 ![](https://i.imgur.com/xNaLuRh.gif)
 
 
-## To-Dos
+## Process report
 
-- [x] @jrebane drafts initial sample readme
-- [x] Emoji's added
-- [x] Snarky text intensified
-- [x] Add useful reference resources
-- [ ] Reviewed by @jennybc
+- Did you edit in the browser at github.com?
+
+- [x] Browser - Remotly
+- [x] RStudio - Locally
+
+- Did you pull, edit locally, save, commit, push to github.com?
+
+- [x] Yes. Studio Git
+- [x] Yes. GitHub direct upload + commit
