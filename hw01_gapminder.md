@@ -1,7 +1,7 @@
 hw01\_gapminder
 ================
 IG
-September 14, 2017
+September 15, 2017
 
 Main
 ====
@@ -54,4 +54,4 @@ gapminder %>%
 
 ![](hw01_gapminder_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png)
 
--   Original example was taken from [Fabian Held web page](http://www.fabianheld.com/r-tidyverse/) and adjusted.
+-   The original Exercise 1 was taken from [Fabian Held web page](http://www.fabianheld.com/r-tidyverse/). Completed by IG.
