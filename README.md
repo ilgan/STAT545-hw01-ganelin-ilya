@@ -38,7 +38,6 @@ output:
 
 -[cm004gap.R](STAT545-hw01-ganelin-ilya/cm004gap.R) - R script.
 
-![](http://www.erauscher.com/uploads/5/9/1/3/59136803/764014668.jpg)
 
 
 ### Process report
@@ -68,3 +67,5 @@ output:
 - Examples on tidyverse
 
 *Note: Last two points are easily searchable, so not a big deal.*
+
+![](http://www.erauscher.com/uploads/5/9/1/3/59136803/764014668.jpg)
