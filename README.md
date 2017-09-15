@@ -17,7 +17,7 @@ output:
 - [STAT 545A page](http://stat545.com/)
 - [My LinkedIn profile](https://www.linkedin.com/in/ganelin/)
 
-### People about me:
+### People about me
 
 > "I think he is a smart kid...for his age"
 >
@@ -32,7 +32,7 @@ output:
 
 
 
-### Homework!
+### Files
 
 -[hw01_gapminder.md]( STAT545-hw01-ganelin-ilya/hw01_gapminder.md ) - explores gapminder basic functionality.
 
