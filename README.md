@@ -54,14 +54,14 @@ output:
 
 ### Homework 1 Notes
 
-**The homework helped me to understand the following: **
+**The homework helped me to understand the following:**
 
 - How to use Rmd
 - How to render to different documents: pdf, html, md...
 - How to load necessary libraries and then write an R-code in Rmd
 - How to commit and push pull both locally using RStudio and Git command line and remotely through simple GitHub editor
 
-**What would I would like to learn more about: **
+**What would I would like to learn more about:**
 
 - More examples on gapminder. How to properly use it?
 - Examples on tidyverse
