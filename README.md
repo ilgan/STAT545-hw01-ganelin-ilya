@@ -34,7 +34,9 @@ output:
 
 ### Homework!
 
-[hw01_gapminder.md]( STAT545-hw01-ganelin-ilya/hw01_gapminder.md ) explores gapminder basic functionality.
+-[hw01_gapminder.md]( STAT545-hw01-ganelin-ilya/hw01_gapminder.md ) - explores gapminder basic functionality.
+
+-[cm004gap.R](STAT545-hw01-ganelin-ilya/cm004gap.R) - R script.
 
 ![](http://www.erauscher.com/uploads/5/9/1/3/59136803/764014668.jpg)
 
