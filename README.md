@@ -56,16 +56,16 @@ output:
 
 **The homework helped me to understand the following:**
 
-- How to use Rmd
-- How to render to different documents: pdf, html, md...
-- How to load necessary libraries and then write an R-code in Rmd
-- How to commit and push pull both locally using RStudio and Git command line and remotely through simple GitHub editor
+1. How to use Rmd
+2. How to render to different documents: pdf, html, md...
+3. How to load necessary libraries and then write an R-code in Rmd
+4. How to commit and push pull both locally using RStudio and Git command line and remotely through simple GitHub editor
 
 **What would I would like to learn more about:**
 
-- More examples on gapminder. How to properly use it?
-- Examples on tidyverse
+1. More examples on gapminder. How to properly use it?
+2. Examples on tidyverse
 
-*Note: Last two points are easily searchable, so not a big deal.*
+[^1]: Note: Last two points are easily searchable, so not a big deal.*
 
 ![](http://www.erauscher.com/uploads/5/9/1/3/59136803/764014668.jpg)

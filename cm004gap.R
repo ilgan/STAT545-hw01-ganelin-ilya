@@ -9,7 +9,7 @@ gap_gdpPercap <- gapminder %>%
 str(gap_gdpPercap)
 
 gapminder %>% 
-  left_join(gdpPercap) %>% 
+  left_join(gap_gdpPercap) %>% 
   mutate(cont_gdpPercap_share = gdpPercap / cont_gdpPercap) %>% 
   ggplot( aes(x=year, 
               y=cont_gdpPercap_share, 

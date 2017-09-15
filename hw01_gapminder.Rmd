@@ -33,4 +33,10 @@ gapminder %>%
   facet_wrap(~continent )
 ```
 
+```{r, echo = FALSE}
+renderTable({head(continent,input$gdpPercap)})
+
+```
+
+
 - The original Exercise 1 was taken from [Fabian Held web page](http://www.fabianheld.com/r-tidyverse/). Completed by IG.
