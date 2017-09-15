@@ -27,6 +27,9 @@ output:
 >
 > Ilya's high school english teacher.
 
+### Bio
+Engineer, BSc from TAU in ECE, MEng in Management in Technology from UBC. Currently MASc at UBC [DML](http://dml.ece.ubc.ca/), bass player at [Generals of Monrovia](https://generalsofmonrovia.bandcamp.com/)
+
 
 
 ## Homework!
